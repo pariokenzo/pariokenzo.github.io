@@ -9,25 +9,25 @@
     <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pariokenzo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mano Pirmas Įrašas - Hugo ir Git Lab</title>
+      <title>Mano Pirmas Irasas - Hugo ir Git Lab</title>
       <link>https://pariokenzo.github.io/posts/pirmas-irasas/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://pariokenzo.github.io/posts/pirmas-irasas/</guid>
       <description>&lt;h1 id=&#34;apie-mane&#34;&gt;Apie mane&lt;/h1&gt;
 &lt;p&gt;Mano vardas &lt;strong&gt;Edgaras&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;hugo-ir-git-laboratorinis-darbas&#34;&gt;Hugo ir Git laboratorinis darbas&lt;/h2&gt;
-&lt;p&gt;Šiame darbe aš išmokau:&lt;/p&gt;
+&lt;p&gt;Siame darbe as ismokau:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Kaip sukurti Linux serverį Azure aplinkoje&lt;/li&gt;
-&lt;li&gt;Kaip konfigūruoti nginx web serverį&lt;/li&gt;
-&lt;li&gt;Kaip naudoti Hugo statinių puslapių generatorių&lt;/li&gt;
-&lt;li&gt;Kaip dirbti su git versijų kontrole&lt;/li&gt;
-&lt;li&gt;Kodėl nenoriu naudoti linux&lt;/li&gt;
+&lt;li&gt;Kaip sukurti Linux serveri Azure aplinkoje&lt;/li&gt;
+&lt;li&gt;Kaip konfiguruoti nginx web serveri&lt;/li&gt;
+&lt;li&gt;Kaip naudoti Hugo statiniu puslapiu generatoriu&lt;/li&gt;
+&lt;li&gt;Kaip dirbti su git versiju kontrole&lt;/li&gt;
+&lt;li&gt;Kodel nenoriu naudoti linux&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;kodo-pavyzdys&#34;&gt;Kodo pavyzdys&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello&lt;/span&gt;():
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;maziau laboru prasyciau&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;Mano nuomonė apie linux&#34; loading=&#34;lazy&#34; src=&#34;https://pariokenzo.github.io/images/mano-nuotrauka.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;Mano nuomone apie linux&#34; loading=&#34;lazy&#34; src=&#34;https://pariokenzo.github.io/images/mano-nuotrauka.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
