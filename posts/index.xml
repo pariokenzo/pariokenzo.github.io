@@ -15,10 +15,11 @@
       <guid>https://pariokenzo.github.io/posts/mano-pirmas-postas/</guid>
       <description>&lt;h1 id=&#34;sveiki&#34;&gt;Sveiki!&lt;/h1&gt;
 &lt;p&gt;Tai mano pirmas Hugo blog postas su &lt;strong&gt;Papermod&lt;/strong&gt; tema.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Testas&#34; loading=&#34;lazy&#34; src=&#34;https://pariokenzo.github.io/images/test.jpg&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;kodo-pavyzdys&#34;&gt;Kodo pavyzdys&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello&lt;/span&gt;():
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello from Hugo!&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Čia paveiksliukas (vėliau pridėsime).&lt;/p&gt;</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Čia buvo paveiksliukas!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
