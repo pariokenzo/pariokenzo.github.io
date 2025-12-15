@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
-    <generator>Hugo</generator>
-    <language>en</language>
+    <title>Edgaro Blog</title>
+    <link>https://pariokenzo.github.io/</link>
+    <description>Recent content on Edgaro Blog</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
     <lastBuildDate>Sun, 15 Dec 2024 15:30:00 +0200</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pariokenzo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mano Pirmas Postas</title>
-      <link>/posts/mano-pirmas-postas/</link>
+      <link>https://pariokenzo.github.io/posts/mano-pirmas-postas/</link>
       <pubDate>Sun, 15 Dec 2024 15:30:00 +0200</pubDate>
-      <guid>/posts/mano-pirmas-postas/</guid>
-      <description>&lt;h1 id=&#34;sveiki&#34;&gt;Sveiki!&lt;/h1&gt;&#xA;&lt;p&gt;Tai mano pirmas Hugo blog postas su &lt;strong&gt;Papermod&lt;/strong&gt; tema.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kodo-pavyzdys&#34;&gt;Kodo pavyzdys&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello from Hugo!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Čia paveiksliukas (vėliau pridėsime).&lt;/p&gt;</description>
+      <guid>https://pariokenzo.github.io/posts/mano-pirmas-postas/</guid>
+      <description>&lt;h1 id=&#34;sveiki&#34;&gt;Sveiki!&lt;/h1&gt;
+&lt;p&gt;Tai mano pirmas Hugo blog postas su &lt;strong&gt;Papermod&lt;/strong&gt; tema.&lt;/p&gt;
+&lt;h2 id=&#34;kodo-pavyzdys&#34;&gt;Kodo pavyzdys&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello from Hugo!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Čia paveiksliukas (vėliau pridėsime).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
